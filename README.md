@@ -1,4 +1,4 @@
-TP2RMI
+TP2RMI ==> voir tp2
 ======
 
 TP 2/GLA : RMI et les services Web
