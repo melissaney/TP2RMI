@@ -1,6 +1,8 @@
 TP2RMI ==> voir tp2
 ======
 
+http://goo.gl/q5639B
+
 TP 2/GLA : RMI et les services Web
 
 Objectif : 
